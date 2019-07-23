@@ -1,7 +1,7 @@
 from __future__ import print_function
 import random
 
-buzz = ('test')
+buzz = ('test','continous', 'containers', 'yaml')
 adjectives = ('wonderful')
 adverbs = ('remarkably')
 verbs = ('improves')
