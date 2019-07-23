@@ -2,9 +2,9 @@ from __future__ import print_function
 import random
 
 buzz = ('test','continous', 'containers', 'yaml')
-adjectives = ('wonderful')
-adverbs = ('remarkably')
-verbs = ('improves')
+adjectives = ('wonderful', 'complete','self-service')
+adverbs = ('remarkably','substantially', 'modern')
+verbs = ('improves', 'enahnces', 'embraces', 'grows')
 
 def sample(l, n = 1):
    result = random.sample(l, n)
